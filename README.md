@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compensation Data Extraction System
 
 ## 🚀 Quick Start
@@ -43,3 +44,6 @@ Successfully extracted compensation data for 6 executives and 9 directors from A
 ---
 
 **Ready for production use!** 🎉
+=======
+# proxy_buddie
+>>>>>>> 0bc01e11bd69a9d1d2dec42aad55938a381a756a
